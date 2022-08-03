@@ -1,2 +1,2 @@
 # NextJS-Typescript-Base
-Base project using NextJS, Typescript, Eslint
+Base project using NextJS, Typescript, TailwindCSS
