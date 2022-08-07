@@ -20,6 +20,9 @@ or
 <br/><code>yarn build</code>
 </p>
 
+## Preview
+![](https://user-images.githubusercontent.com/66328734/183271392-2e109941-6c0c-488d-b724-a3a0b25868c6.png)
+
 ## Project Structure
 
 ```
